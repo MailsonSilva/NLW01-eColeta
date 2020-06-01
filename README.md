@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="gitimg/logo.svg" width="250px" /> 
 </h1>
 
 <h4 align="center"> 
@@ -45,7 +45,7 @@ Ecoleta is a project developed based on international environment week.
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
+    <img alt="Example" title="Example" src="gitimg/capa.svg" width="500px" />
 </h1>
 
 
