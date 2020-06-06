@@ -95,7 +95,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
 
-Made with ♥ by Mailson Obara :wave: [Get in touch!](https://www.linkedin.com/in/mailsonfcsilva/)
+Made with ♥ by Mailson Fernando :wave: [Get in touch!](https://www.linkedin.com/in/mailsonfcsilva/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
