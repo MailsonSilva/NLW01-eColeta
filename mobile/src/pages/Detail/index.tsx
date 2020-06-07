@@ -66,6 +66,7 @@ const Detail = () => {
   if (!data.point) {
     return null;
   }
+  console.log(data.point.image_url);
 
   return (
     <SafeAreaView style={{ flex: 1 }}>

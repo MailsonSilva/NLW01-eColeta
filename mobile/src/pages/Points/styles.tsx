@@ -59,7 +59,7 @@ export default StyleSheet.create({
     flex: 1,
     fontFamily: "Roboto_400Regular",
     color: "#FFF",
-    fontSize: 13,
+    fontSize: 12,
     lineHeight: 23,
   },
 
